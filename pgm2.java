@@ -6,19 +6,19 @@ public class Main
 	    char c=sc.next().charAt(0);
 	    if(c>=65 && c<=90)
 	    {
-    	    for(int i=c;i<=90;i++)
-    	    {
-    	        System.out.print((char)i);
-    	    }
+    	    	for(int i=c;i<=90;i++)
+    	    	{
+    	        	System.out.print((char)i);
+    	    	}
 	    }
-	    else
+	    /*else
 	    {
 	        for(int i=c;i<=122;i++)
 	        {
 	            System.out.print((char)i);
 	        }
 	    
-	    }
+	    }*/
 	    
 	    
 	}
